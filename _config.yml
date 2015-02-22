@@ -1,13 +1,41 @@
 # Site settings
 title: DesignFrags
 email: adityadineshsaxena@gmail.com
+author: Aditya Saxena
 description: > # this means to ignore newlines until "baseurl:"
   Hi there! I'm a Frontend guy, and this is my Blog-O-Sphere ;-). Wonder if that's old.
   I work with McKinsey Digital Labs. If you wanna say 'Hi', you'll find me on Twitter.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.designfrags.com" # the base hostname & protocol for your site
-twitter_username: adityasaxena
-github_username:  adityadineshsaxena
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: false
+github_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
 # Build settings
-markdown: kramdown
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
