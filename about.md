@@ -1,19 +1,17 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hello reader!
+I'm Aditya. I'm a coder. I work with McKinsey Digital Labs in Gurgaon/India as a Front-End engineer. I work with some great people here and I'm proud to be working with some of the best Front-End frameworks out there. As a Front-End group, we work with Data Visualizations using Highcharts and D3, Cordova/Ionic based iOS and Android applications and practically anything that floats around us in this domain.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+My past-time activities include playing Cricket/Foosball, enjoying with my son, and keeping myself busy with this knowledge in this information-crazy world.
 
-Thanks to the following:
+You can reach my at the following places:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+* [GitHub](github.com/adityadineshsaxena)
+* [Twitter](http://twitter.com/adityasaxena)
+* [Stackoverflow](http://stackoverflow.com/users/880372/adityasaxena)
+* [LinkedIn](in.linkedin.com/in/adityasaxena)
